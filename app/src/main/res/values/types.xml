@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.TypographyPlayground.Headline5" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textSize">40sp</item>
+        <item name="android:textColor">#FFFF00</item>
+    </style>
+    
+    <style name="TestWidget.TypographyPlayground.TextView" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textColor">#FF0000</item>
+    </style>
+    <style name="TestWidget.TypographyPlayground.Button" parent="Widget.MaterialComponents.Button">
+        <item name="android:textColor">#000ff0</item>
+        <item name="android:backgroundTint">#ffff00</item>
+    </style>
+</resources>
